@@ -8,7 +8,7 @@ This project implements real-time emotion recognition using Python, OpenCV, and 
 - OpenCV
 - TensorFlow
 
-## Installation
+## Installation and etc
 
 1. Clone the repository:
 
