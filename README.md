@@ -1,4 +1,6 @@
-# Emotion Recognition Project
+# Currently problems with the installation of facerec are occuring
+
+# Face Recognition Project
 
 This project implements real-time face recognition using Python, OpenCV, and facerec.
 
