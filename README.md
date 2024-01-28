@@ -1,6 +1,6 @@
 # Emotion Recognition Project
 
-This project implements real-time emotion recognition using Python, OpenCV, and TensorFlow.
+This project implements real-time face recognition using Python, OpenCV, and facerec.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ This project implements real-time emotion recognition using Python, OpenCV, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pranshul-Thakur/Emotion_Recognition.git
+   git clone https://github.com/Pranshul-Thakur/Face_Recognition.git
 
 
 2. Install dependencies:
